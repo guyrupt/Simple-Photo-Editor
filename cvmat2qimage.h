@@ -1,0 +1,4 @@
+#ifndef CVMAT2QIMAGE_H
+#define CVMAT2QIMAGE_H
+
+#endif // CVMAT2QIMAGE_H
