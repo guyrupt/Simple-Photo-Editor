@@ -6,6 +6,16 @@
 *.exe
 *.o
 *.so
+*.obj
+release
+*.stash
+Makefile
+*.Debug
+*.Release
+*.pro
+*.pro.user
+*.qrc
+ps.pro.user.4.10-pre1
 
 # Packages #
 ############

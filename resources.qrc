@@ -1,8 +1,0 @@
-<RCC>
-    <qresource prefix="/rec">
-        <file>resource/index.jpg</file>
-        <file>resource/index.png</file>
-        <file>resource/undo.png</file>
-        <file>resource/save.png</file>
-    </qresource>
-</RCC>
